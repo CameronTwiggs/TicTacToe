@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/CameronTwiggs/TicTacToe/static/css/main.0cf12edd.chunk.css",
-    "main.js": "/CameronTwiggs/TicTacToe/static/js/main.e82b75e8.chunk.js",
-    "main.js.map": "/CameronTwiggs/TicTacToe/static/js/main.e82b75e8.chunk.js.map",
-    "runtime~main.js": "/CameronTwiggs/TicTacToe/static/js/runtime~main.011196e4.js",
-    "runtime~main.js.map": "/CameronTwiggs/TicTacToe/static/js/runtime~main.011196e4.js.map",
-    "static/js/2.6aab3cfe.chunk.js": "/CameronTwiggs/TicTacToe/static/js/2.6aab3cfe.chunk.js",
-    "static/js/2.6aab3cfe.chunk.js.map": "/CameronTwiggs/TicTacToe/static/js/2.6aab3cfe.chunk.js.map",
+    "main.css": "/CameronTwiggs/TicTacToe/static/css/main.6813ab00.chunk.css",
+    "main.js": "/CameronTwiggs/TicTacToe/static/js/main.6f3c4f11.chunk.js",
+    "main.js.map": "/CameronTwiggs/TicTacToe/static/js/main.6f3c4f11.chunk.js.map",
+    "runtime-main.js": "/CameronTwiggs/TicTacToe/static/js/runtime-main.7c9d6692.js",
+    "runtime-main.js.map": "/CameronTwiggs/TicTacToe/static/js/runtime-main.7c9d6692.js.map",
+    "static/js/2.a318b497.chunk.js": "/CameronTwiggs/TicTacToe/static/js/2.a318b497.chunk.js",
+    "static/js/2.a318b497.chunk.js.map": "/CameronTwiggs/TicTacToe/static/js/2.a318b497.chunk.js.map",
     "index.html": "/CameronTwiggs/TicTacToe/index.html",
-    "precache-manifest.cd48ef55ff108256eb593bd662bbf20f.js": "/CameronTwiggs/TicTacToe/precache-manifest.cd48ef55ff108256eb593bd662bbf20f.js",
+    "precache-manifest.91a62f25829079673a6210ece52c97a2.js": "/CameronTwiggs/TicTacToe/precache-manifest.91a62f25829079673a6210ece52c97a2.js",
     "service-worker.js": "/CameronTwiggs/TicTacToe/service-worker.js",
-    "static/css/main.0cf12edd.chunk.css.map": "/CameronTwiggs/TicTacToe/static/css/main.0cf12edd.chunk.css.map"
-  }
+    "static/css/main.6813ab00.chunk.css.map": "/CameronTwiggs/TicTacToe/static/css/main.6813ab00.chunk.css.map",
+    "static/js/2.a318b497.chunk.js.LICENSE": "/CameronTwiggs/TicTacToe/static/js/2.a318b497.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c9d6692.js",
+    "static/js/2.a318b497.chunk.js",
+    "static/css/main.6813ab00.chunk.css",
+    "static/js/main.6f3c4f11.chunk.js"
+  ]
 }
