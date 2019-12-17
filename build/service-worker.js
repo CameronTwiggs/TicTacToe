@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CameronTwiggs/TicTacToe/precache-manifest.91a62f25829079673a6210ece52c97a2.js"
+  "/CameronTwiggs/TicTacToe/precache-manifest.cd48ef55ff108256eb593bd662bbf20f.js"
 );
 
 self.addEventListener('message', (event) => {
