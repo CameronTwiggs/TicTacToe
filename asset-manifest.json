@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CameronTwiggs/TicTacToe/static/css/main.6813ab00.chunk.css",
-    "main.js": "/CameronTwiggs/TicTacToe/static/js/main.6f3c4f11.chunk.js",
-    "main.js.map": "/CameronTwiggs/TicTacToe/static/js/main.6f3c4f11.chunk.js.map",
-    "runtime-main.js": "/CameronTwiggs/TicTacToe/static/js/runtime-main.7c9d6692.js",
-    "runtime-main.js.map": "/CameronTwiggs/TicTacToe/static/js/runtime-main.7c9d6692.js.map",
-    "static/js/2.a318b497.chunk.js": "/CameronTwiggs/TicTacToe/static/js/2.a318b497.chunk.js",
-    "static/js/2.a318b497.chunk.js.map": "/CameronTwiggs/TicTacToe/static/js/2.a318b497.chunk.js.map",
-    "index.html": "/CameronTwiggs/TicTacToe/index.html",
-    "precache-manifest.91a62f25829079673a6210ece52c97a2.js": "/CameronTwiggs/TicTacToe/precache-manifest.91a62f25829079673a6210ece52c97a2.js",
-    "service-worker.js": "/CameronTwiggs/TicTacToe/service-worker.js",
-    "static/css/main.6813ab00.chunk.css.map": "/CameronTwiggs/TicTacToe/static/css/main.6813ab00.chunk.css.map",
-    "static/js/2.a318b497.chunk.js.LICENSE": "/CameronTwiggs/TicTacToe/static/js/2.a318b497.chunk.js.LICENSE"
+    "main.css": "/TicTacToe/static/css/main.6813ab00.chunk.css",
+    "main.js": "/TicTacToe/static/js/main.f76e14cd.chunk.js",
+    "main.js.map": "/TicTacToe/static/js/main.f76e14cd.chunk.js.map",
+    "runtime-main.js": "/TicTacToe/static/js/runtime-main.a0082ed9.js",
+    "runtime-main.js.map": "/TicTacToe/static/js/runtime-main.a0082ed9.js.map",
+    "static/js/2.a318b497.chunk.js": "/TicTacToe/static/js/2.a318b497.chunk.js",
+    "static/js/2.a318b497.chunk.js.map": "/TicTacToe/static/js/2.a318b497.chunk.js.map",
+    "index.html": "/TicTacToe/index.html",
+    "precache-manifest.929ca46c7c0bb548b49a53dfb9ed4214.js": "/TicTacToe/precache-manifest.929ca46c7c0bb548b49a53dfb9ed4214.js",
+    "service-worker.js": "/TicTacToe/service-worker.js",
+    "static/css/main.6813ab00.chunk.css.map": "/TicTacToe/static/css/main.6813ab00.chunk.css.map",
+    "static/js/2.a318b497.chunk.js.LICENSE": "/TicTacToe/static/js/2.a318b497.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c9d6692.js",
+    "static/js/runtime-main.a0082ed9.js",
     "static/js/2.a318b497.chunk.js",
     "static/css/main.6813ab00.chunk.css",
-    "static/js/main.6f3c4f11.chunk.js"
+    "static/js/main.f76e14cd.chunk.js"
   ]
 }
