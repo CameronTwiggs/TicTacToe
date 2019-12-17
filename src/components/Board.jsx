@@ -24,7 +24,7 @@ class Board extends React.Component {
   }
 
   renderSquare(i) {
-    return <Square 
+    return <Square
     value={this.state.squares[i]}
     onClick={()=>this.handleClick(i)} />;
   }
@@ -82,5 +82,6 @@ function calculateWinner(squares) {
   }
   return null;
 }
+
 
 export default Board;

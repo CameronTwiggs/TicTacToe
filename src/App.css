@@ -46,7 +46,7 @@ body {
   
   .square:active {
     background: #119e4d;
-    box-shadow: 0;
+    box-shadow: 0 0 0;
   }
 
   .square:focus {
